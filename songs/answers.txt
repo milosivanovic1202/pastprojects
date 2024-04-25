@@ -1,0 +1,15 @@
+I would create a scale of energy, with the max possible value of energy, valence and danceability.
+Then I would take the averages of those and categorize the top 100 songs of a person into one of these.
+
+For example if a person listenes always to high energetic, high valence and high danceability music
+I would give that person the highest Excitement Aura. If the person listenst to low valued songs
+Id give that person the lowest excitement aura.
+
+However, this categorization is a very naiive one, since a person might be excited but not really
+into dance music. There are a lot of nuances that need to be considered, like at which seasons that
+person listened to a particular song, since the summer tends to be more energetic than the winter.
+
+Sad songs can also be very energetic, so a person who listens to energetic music might be sad
+or happy. A way to improve this evaluation might be looking for keywords in the text of the
+songs played that would steer the aura into one way or the other. One could even make a simple
+formula of a happiness index based on those keywords and consider that in the aura evaluation.

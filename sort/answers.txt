@@ -1,0 +1,11 @@
+sort1 uses: Bubble sort
+
+How do you know?: It performs slower on reversed (worst case) and faster on sorted (best case).
+
+sort2 uses: Merged sort
+
+How do you know?: It performs consistenlty fast given a reversed and sorted.
+
+sort3 uses: Selection sort
+
+How do you know?: It performs consistently slow given a reversed and sorted list.
